@@ -26,3 +26,12 @@ The website is designed with a responsive layout to ensure optimal viewing and i
 ## Installation
 To run the Nike Shoe Store locally on your machine, follow these steps:
 1. Clone the repository:
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, feel free to submit pull requests or report any issues you encounter.
+
+## Contact
+For any questions, feedback, or inquiries, please contact [here](mailto:irfanamohd0525@gmail.com).
