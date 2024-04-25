@@ -25,7 +25,7 @@ The website is designed with a responsive layout to ensure optimal viewing and i
 
 ## Installation
 To run the Nike Shoe Store locally on your machine, follow these steps:
-1. Clone the repository:
+1. Clone the repository:git@github.com:irfan-H4/DummyShoe-site.git
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, feel free to submit pull requests or report any issues you encounter.
