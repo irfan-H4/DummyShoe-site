@@ -2,6 +2,9 @@
 
 Welcome to the Nike Shoe Store! This frontend website is designed to provide users with an immersive and user-friendly experience shopping site for Nike shoes.
 
+## screenshots
+<img src="screencapture-.png">
+
 ## Introduction
 The Nike Shoe Store is a demonstration of a frontend layout for an online shoe store specializing in Nike footwear. It aims to showcase various Nike shoe products in an organized and visually appealing manner, enabling users to explore the latest collections and make informed purchase decisions.
 
